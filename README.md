@@ -1,8 +1,7 @@
-<img src="./images/tree.png" width="300" height="100" align="left" >
-
-
+<img src="./images/tree.png"
+     width="150" height="100"
+     style="float: left; margin-right: 5px;" />
 ***
-
 
 # Algorithms and Data Structure
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
