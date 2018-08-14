@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea74cb21-6ab2-41e0-8888-b71cf6fd7562" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binarySeachTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,33 +32,39 @@
     <session id="-1900479397">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="py" value="1" />
+          <entry key="md" value="1" />
+          <entry key="py" value="2" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="Python" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="2" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="md" value="3" />
           <entry key="py" value="54" />
           <entry key="txt" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="55" />
           <entry key="Python" value="54" />
         </counts>
@@ -71,12 +75,24 @@
     <favorites_list name="algorithmDataStructure" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="360">
+                <caret line="20" selection-start-line="20" selection-end-line="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/binarySeachTree.py">
+        <entry file="file://$PROJECT_DIR$/binarySearchTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+            <state relative-caret-position="522">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -102,6 +118,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/binarySeachTree.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -134,7 +151,8 @@
             </path>
             <path>
               <item name="algorithmDataStructure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="algorithmDataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,7 +165,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,16 +245,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="181" width="2560" height="1054" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" id="Version Control" order="0" sideWeight="0.503212" side_tool="true" visible="true" weight="0.19301033" />
-      <window_info id="Favorites" order="1" sideWeight="0.50159234" side_tool="true" weight="0.16322479" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.496788" visible="true" weight="0.19301033" />
-      <window_info id="Structure" order="3" sideWeight="0.49892932" side_tool="true" weight="0.16322479" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info id="Version Control" order="0" sideWeight="0.50747865" side_tool="true" weight="0.19618745" />
+      <window_info id="Favorites" order="1" sideWeight="0.50747865" side_tool="true" weight="0.19618745" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.49252138" visible="true" weight="0.19777602" />
+      <window_info id="Structure" order="3" sideWeight="0.50747865" side_tool="true" weight="0.19618745" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" weight="0.32905984" />
       <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32976446" />
-      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32905984" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
@@ -244,8 +261,8 @@
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="Run" order="9" weight="0.38115633" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Terminal" order="0" sideWeight="0.49892932" weight="0.35305798" />
-      <window_info anchor="right" x="0" y="0" width="590" height="854" id="Documentation" order="1" sideWeight="0.5010707" weight="0.35305798" />
+      <window_info anchor="right" id="Terminal" order="0" sideWeight="0.4957265" visible="true" weight="0.35305798" />
+      <window_info anchor="right" x="0" y="0" width="590" height="854" id="Documentation" order="1" sideWeight="0.50427353" side_tool="true" visible="true" weight="0.35305798" />
       <window_info anchor="right" id="Database" order="2" weight="0.32962668" />
       <window_info anchor="right" id="R Packages" order="3" weight="0.32962668" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32962668" />
@@ -326,10 +343,21 @@
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/binarySeachTree.py">
+    <entry file="file://$PROJECT_DIR$/binarySeachTree.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="360">
+            <caret line="20" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binarySearchTree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="522">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>
