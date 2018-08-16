@@ -15,9 +15,9 @@
 > Theses algorithms contained here are compilations from the classes of [Prof. André Auto Moreira](https://scholar.google.com/citations?user=Bnw-fLYAAAAJ&hl=pt-PT) at Universidade Federal do Ceará, Fortaleza - CE/Brazil.
 
 ## Algorithms:
-* [Binary Search](./binarySearch.ipynb)
-* [Binary Search Tree (Search and Insertion)](binarySearchTree.ipynb)
-* [Disjoint Sets](disjointSet.ipynb)
+* [Binary Search](./notebooks/binarySearch.ipynb)
+* [Binary Search Tree (Search and Insertion)](./notebooks/binarySearchTree.ipynb)
+* [Disjoint Sets](./notebooks/disjointSet.ipynb)
 
 ## Usage
 
