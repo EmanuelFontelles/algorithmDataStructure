@@ -49,7 +49,7 @@ Every time you want to work, do the following:
 [git]: https://git-scm.com
 [python]: https://www.python.org
 [scipy]: https://www.scipy.org
-[anaconda]: https://anaconda.org
+[anaconda]: https://www.anaconda.com/download/
 [miniconda]: https://conda.io/miniconda.html
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
