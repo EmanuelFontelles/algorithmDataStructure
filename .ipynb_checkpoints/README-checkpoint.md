@@ -21,7 +21,7 @@
 
 ## Usage
 
-Click the [binder badge][binder_lab] to play with the notebooks from your
+Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
 browser without installing anything.
 
 For a local installation, you will need [git], [Python], and packages from the
