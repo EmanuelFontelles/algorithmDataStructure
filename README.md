@@ -37,17 +37,10 @@ to install it and create an environment for the course.
    * macOS: Run `bash Miniconda3-latest-MacOSX-x86_64.sh` in your terminal.
    * Linux: Run `bash Miniconda3-latest-Linux-x86_64.sh` in your terminal.
 1. Open a terminal. Windows: open the Anaconda Prompt from the Start menu.
-1. Install git with `conda install git`.
-1. Download this repository by running
-   `git clone --recurse-submodules https://github.com/mdeff/ntds_2017`.
-1. Create an environment with the packages required for the course with
-   `conda env create -f ntds_2017/environment.yml`.
 
 Every time you want to work, do the following:
 
 1. Open a terminal. Windows: open the Anaconda Prompt from the Start menu.
-1. Activate the environment with `conda activate ntds_2017`
-   (or `activate ntds_2017`, or `source activate ntds_2017`).
 1. Start Jupyter with `jupyter notebook` or `jupyter lab`. The command should
    open a new tab in your web browser.
 1. Edit and run the notebooks from your browser.
