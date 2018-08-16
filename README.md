@@ -17,6 +17,7 @@
 ## Algorithms:
 * [Binary Search](qExponential.ipynb)
 * [Binary Search Tree (Search and Insertion)](binarySearchTree.py)
+* [Disjoint Sets](disjointSet.py)
 
 ## Usage
 
