@@ -5,9 +5,9 @@
 
 # Algorithms and Data Structure
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master)
 
-[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master?filepath=index.ipynb
+[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master
 
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
