@@ -6,7 +6,7 @@
 # Algorithms and Data Structure
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master)
-[![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
+[![Build Status](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure.svg?branch=master)](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure)
 
 [binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master
 
