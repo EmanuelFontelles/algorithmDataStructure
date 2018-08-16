@@ -1,2 +1,5 @@
-language: python
-os: linux
+matrix:
+  include:
+    - python: 3.6
+      dist: xenial
+      sudo: true
