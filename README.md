@@ -19,7 +19,7 @@
 * [Binary Search](./notebooks/binarySearch.ipynb)
 * [Binary Search Tree (Search and Insertion)](./notebooks/binarySearchTree.ipynb)
 * [Disjoint Sets](./notebooks/disjointSet.ipynb)
-* [Binary Heap]((./notebooks/binaryHeap.ipynb))
+* [Binary Heap](./notebooks/binaryHeap.ipynb)
   - Please visit [***GeeksforGeeks***](https://www.geeksforgeeks.org/binary-heap/)
 * [Percolation](./notebooks/disjointSet.ipynb)
   - [Invasion Percolation](./notebooks/invasionPercolation.ipynb)
