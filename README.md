@@ -93,4 +93,4 @@ This is a personal repository that is not meant for public use at this time. It 
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
 [Binder]: https://mybinder.org/
-[binder_lab]: https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master
+[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master
