@@ -8,9 +8,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master)
 [![Build Status](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure.svg?branch=master)](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure)
 
-[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master
-
-
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
 >
 > Theses algorithms contained here are compilations from the classes of [Prof. André Auto Moreira](https://scholar.google.com/citations?user=Bnw-fLYAAAAJ&hl=pt-PT) at Universidade Federal do Ceará, Fortaleza - CE/Brazil.
@@ -24,16 +21,29 @@
 * [Percolation](./notebooks/disjointSet.ipynb)
   - [Invasion Percolation](./notebooks/invasionPercolation.ipynb)
 
-## Usage
+## Usage and Installation Notes
+### Usage
+You can view the tutorial materials using the excellent service from [Binder]. Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
+browser without installing anything or you can setup a [local instalation](#local-instalation).
 
-Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
-browser without installing anything.
+> [Binder] lets you easily host interactive Jupyter notebooks and let anyone on the internet use them interactively immediately! Binder creates executable environment making your code immediately reproducible by anyone, anywhere.
 
-For a local installation, you will need [git], [Python], and packages from the
-[Python scientific stack][scipy]. If you don't know how to install those on
-your platform, we recommend to install [Miniconda], a distribution of the
-[conda] package and environment manager. Please follow the below instructions
-to install it and create an environment for the course.
+You can [visualize the notebooks](http://nbviewer.jupyter.org/github/emanuelfontelles/algorithmDataStructure) without running any kernel.
+
+[](#local-instalation)
+### Local Instalation
+This tutorial requires the following packages:
+
+- Python version 2.7 or 3.6+
+- `numpy` version 1.15 or later: http://www.numpy.org/
+- `scipy` version 0.10 or later: http://www.scipy.org/
+- `matplotlib` version 2.2.2 or later: http://matplotlib.org/
+- `scikit-learn` version 0.19.2 or later: http://scikit-learn.org
+- `ipython` version 2.0 or later, with notebook support: http://ipython.org
+- `seaborn` version 0.8 or later: https://seaborn.pydata.org/
+
+For a local installation, please follow the tutorial bellow. If you don't know how to install those on your platform, I recommend to install [Miniconda], a distribution of the [conda] package and environment manager. Please follow the below instructions
+to install it and create an environment for the repository.
 
 1. Download the Python 3.x installer for Windows, macOS, or Linux from
    <https://conda.io/miniconda.html> and install with default settings. Skip
@@ -42,7 +52,14 @@ to install it and create an environment for the course.
    * Windows: Double-click on the `.exe` file.
    * macOS: Run `bash Miniconda3-latest-MacOSX-x86_64.sh` in your terminal.
    * Linux: Run `bash Miniconda3-latest-Linux-x86_64.sh` in your terminal.
-1. Open a terminal. Windows: open the Anaconda Prompt from the Start menu.
+2. Open a terminal. Windows: open the Anaconda Prompt from the Start menu.
+
+Once this is installed, the following command will install all required packages in your Python environment:
+```bash 
+$ conda install numpy scipy matplotlib scikit-learn ipython-notebook seaborn
+```
+
+> *Alternatively, you can download and install the (very large) [Anaconda] software distribution.*
 
 Every time you want to work, do the following:
 
@@ -51,13 +68,29 @@ Every time you want to work, do the following:
    open a new tab in your web browser.
 1. Edit and run the notebooks from your browser.
 
+### Downloading the Tutorial Materials
+I would highly recommend using [git], not only for this tutorial, but for the
+general betterment of your life.  Once git is installed, you can clone the
+material in this tutorial by using the git address shown above:
+
+    git clone git://github.com/emanuelfontelles/algorithmDataStructure.git
+
+If you can't or don't want to install git, there is a link above to download
+the contents of this repository as a zip file.  I may make minor changes to
+the repository in the days before the tutorial, however, so cloning the
+repository is a much better option.
+
+## External Repositories
+
+## Disclaimer
+This is a personal repository that is not meant for public use at this time. It is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. No installation or technical support will be provided.
+
 [git]: https://git-scm.com
 [python]: https://www.python.org
 [scipy]: https://www.scipy.org
 [anaconda]: https://www.anaconda.com/download/
-[miniconda]: https://conda.io/miniconda.html
+[miniconda]: http://conda.pydata.org/miniconda.html
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
-
-## Disclaimer
-This is a personal repository that is not meant for public use at this time. It is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. No installation or technical support will be provided.
+[Binder]: https://mybinder.org/
+[binder_lab]: https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master

@@ -3,23 +3,17 @@
      style="float: left; margin-right: 5px;" />
 ***
 
-# Algorithms and Data Structure
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master)
-[![Build Status](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure.svg?branch=master)](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure)
+# Machine Learning Algorithms
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab)
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
->
-> Theses algorithms contained here are compilations from the classes of [Prof. André Auto Moreira](https://scholar.google.com/citations?user=Bnw-fLYAAAAJ&hl=pt-PT) at Universidade Federal do Ceará, Fortaleza - CE/Brazil.
+> 
+> Theses notebooks contained here are machine learning algorithms and some Python libraries useful notebooks as Scikit-Learn [continue...]
+> 
 
 ## Algorithms:
-* [Binary Search](./notebooks/binarySearch.ipynb)
-* [Binary Search Tree (Search and Insertion)](./notebooks/binarySearchTree.ipynb)
-* [Disjoint Sets](./notebooks/disjointSet.ipynb)
-* [Binary Heap](./notebooks/binaryHeap.ipynb)
-  - Please visit [***GeeksforGeeks***](https://www.geeksforgeeks.org/binary-heap/)
-* [Percolation](./notebooks/disjointSet.ipynb)
-  - [Invasion Percolation](./notebooks/invasionPercolation.ipynb)
+* Linear Regression
 
 ## Usage and Installation Notes
 ### Usage
@@ -28,7 +22,7 @@ browser without installing anything or you can setup a [local instalation](#loca
 
 > [Binder] lets you easily host interactive Jupyter notebooks and let anyone on the internet use them interactively immediately! Binder creates executable environment making your code immediately reproducible by anyone, anywhere.
 
-You can [visualize the notebooks](http://nbviewer.jupyter.org/github/emanuelfontelles/algorithmDataStructure) without running any kernel.
+You can [visualize the notebooks](http://nbviewer.jupyter.org/github/emanuelfontelles/machineLearning/blob/master/Index.ipynb) without running any kernel.
 
 [](#local-instalation)
 ### Local Instalation
@@ -73,7 +67,7 @@ I would highly recommend using [git], not only for this tutorial, but for the
 general betterment of your life.  Once git is installed, you can clone the
 material in this tutorial by using the git address shown above:
 
-    git clone git://github.com/emanuelfontelles/algorithmDataStructure.git
+    git clone git://github.com/emanuelfontelles/machinelearning.git
 
 If you can't or don't want to install git, there is a link above to download
 the contents of this repository as a zip file.  I may make minor changes to
@@ -81,6 +75,13 @@ the repository in the days before the tutorial, however, so cloning the
 repository is a much better option.
 
 ## External Repositories
+
+This repository contain some notebooks from other authors.  The details of these repos are in the links follows:
+
+| Name  | Author |License |
+|---|---|---|
+| [sklearn_tutorial](https://github.com/jakevdp/sklearn_tutorial) | Jake Vanderplas  | [MIT](https://github.com/jakevdp/sklearn_tutorial/blob/master/LICENSE)|
+| [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Jake Vanderplas  | [MIT](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/LICENSE-CODE)|
 
 ## Disclaimer
 This is a personal repository that is not meant for public use at this time. It is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. No installation or technical support will be provided.
@@ -93,4 +94,4 @@ This is a personal repository that is not meant for public use at this time. It 
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
 [Binder]: https://mybinder.org/
-[binder_lab]: https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master
+[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/machineLearning.git/master?urlpath=lab/tree/Index.ipynb
