@@ -5,7 +5,7 @@
 
 # Algorithms and Data Structure
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master?urlpath=lab)
 [![Build Status](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure.svg?branch=master)](https://travis-ci.org/EmanuelFontelles/algorithmDataStructure)
 
 > This repo is developed by [Emanuel Fontelles](https://github.com/emanuelfontelles).*
@@ -20,6 +20,11 @@
   - Please visit [***GeeksforGeeks***](https://www.geeksforgeeks.org/binary-heap/)
 * [Percolation](./notebooks/disjointSet.ipynb)
   - [Invasion Percolation](./notebooks/invasionPercolation.ipynb)
+
+* Graph Algorithms:
+  - [Breadth-first Search - BFS](./src/graph/bfs.cpp)
+* Ising Model:
+  - [Ising Model with Cython](./notebooks/IsingModel/IsingModel_Cython.ipynb)
 
 ## Usage and Installation Notes
 ### Usage
@@ -93,4 +98,4 @@ This is a personal repository that is not meant for public use at this time. It 
 [conda]: https://conda.io
 [conda-forge]: https://conda-forge.org
 [Binder]: https://mybinder.org/
-[binder_lab]: https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master
+[binder_lab]: https://mybinder.org/v2/gh/EmanuelFontelles/algorithmDataStructure.git/master?urlpath=lab

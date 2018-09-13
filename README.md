@@ -21,9 +21,10 @@
 * [Percolation](./notebooks/disjointSet.ipynb)
   - [Invasion Percolation](./notebooks/invasionPercolation.ipynb)
 
-> Graph Algorithms:
-* [Breadth-first Search - BFS](./src/graph/bfs.cpp)
-
+* Graph Algorithms:
+  - [Breadth-first Search - BFS](./src/graph/bfs.cpp)
+* Ising Model:
+  - [Ising Model with Cython](./notebooks/IsingModel/IsingModel_Cython.ipynb)
 
 ## Usage and Installation Notes
 ### Usage
