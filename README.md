@@ -21,6 +21,10 @@
 * [Percolation](./notebooks/disjointSet.ipynb)
   - [Invasion Percolation](./notebooks/invasionPercolation.ipynb)
 
+> Graph Algorithms:
+* [Breadth-first Search - BFS](./src/graph/bfs.cpp)
+
+
 ## Usage and Installation Notes
 ### Usage
 You can view the tutorial materials using the excellent service from [Binder]. Click in the Binder bagde [![Binder](https://mybinder.org/badge.svg)][binder_lab] to play with the notebooks from your
