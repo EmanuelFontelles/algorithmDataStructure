@@ -21,5 +21,7 @@ get_ipython().run_cell_magic('cython', '', '\ncimport cython\n\nimport numpy as 
 images = [random_spin_field(200, 200)]
 for i in range(100):
     images.append(cy_ising_step(images[-1].copy(), beta=0.4))
-    sns.heatmap(images[i])
-    plt.savefig('step'+str(i)+'.png')
+    sns.heatmap(images[i], cmap=plt.cm.inferno_r)
+    plt.axis('off')
+    plt.savefig('./simulation/'+'step'+str(i)+'.png')
+    plt.clf()
