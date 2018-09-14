@@ -24,7 +24,7 @@
 * Graph Algorithms:
   - [Breadth-first Search - BFS](./src/graph/bfs.cpp)
 * Ising Model:
-  - [Ising Model with Cython](./notebooks/IsingModel/IsingModel_Cython.ipynb)
+  - [Ising Model](./notebooks/IsingModel/IsingModel.ipynb)
 
 ## Usage and Installation Notes
 ### Usage
